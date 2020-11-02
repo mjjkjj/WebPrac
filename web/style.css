@@ -1,0 +1,21 @@
+h1{
+  color:purple;
+  text-decoration:underline;
+  text-align: center;
+}
+.thx{
+  text-indent: 10%;
+}
+.my{
+  text-transform:capitalize;
+}
+
+.tr2{text-transform:uppercase;
+
+}
+.ty{
+  word-spacing: 10px;
+}
+.letterspace{
+  letter-spacing:8px;
+}
